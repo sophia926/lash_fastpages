@@ -229,7 +229,7 @@ function quoteGen() {
         console.log(data.question)
   
         // World Data
-        document.getElementById("gratituderesult").innerHTML = data.question;
+        document.getElementById("gratituderesult").innerHTML = data.quote;
     })
   })
 
