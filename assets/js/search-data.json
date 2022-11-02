@@ -40,6 +40,22 @@
   
 
   
+      ,"page3": {
+          "title": "Journal",
+          "content": "&lt;!DOCTYPE html&gt; . My Journal . My Journal . . Create a New Journal Entry New Journal Entry 💡 Creative tip: Try to come up with a creative name for your day :) . Date Mood Rating 😁 Rate your mood on a scale from 1-10 :) . 5 . Journal about your day here... 3 Gratitudes... 🙏 Try to think of three gratitudes for today... . Can&#39;t think of a gratitude? Gratitude question: . Do you need some motivation? Submit Journal Entries . .",
+          "url": "https://sophia926.github.io/lash_fastpages/journal/",
+          "relUrl": "/journal/",
+          "date": ""
+      }
+      
+  
+
+  
+  
+
+  
+
+  
   
 
   
@@ -48,18 +64,13 @@
   
 
   
-
-  
   
 
   
   
 
   
-  
-
-  
-      ,"page10": {
+      ,"page11": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://sophia926.github.io/lash_fastpages/robots.txt",
